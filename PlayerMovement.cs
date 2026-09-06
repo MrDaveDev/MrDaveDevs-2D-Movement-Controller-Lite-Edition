@@ -1,5 +1,5 @@
 /*
- * MrDaveDev's Movement Controller (Lite Edition)
+ * MrDaveDev's 2D Movement Controller (Lite Edition)
  * Full Version on Unity Asset Store... sometime.
  * Written by MrDaveDev
  * Copyright © 2026 MrDaveDev
